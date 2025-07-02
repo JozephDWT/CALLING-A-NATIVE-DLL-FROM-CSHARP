@@ -1,0 +1,14 @@
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\bin\Debug\DLL.ONE.exe.config
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\bin\Debug\DLL.ONE.exe
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\bin\Debug\DLL.ONE.pdb
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\obj\Debug\DLL.ONE.csproj.AssemblyReference.cache
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\obj\Debug\Page\MainWindow.baml
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\obj\Debug\Page\MainWindow.g.cs
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\obj\Debug\App\App.g.cs
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\obj\Debug\DLL.ONE_MarkupCompile.cache
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\obj\Debug\DLL.ONE.g.resources
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\obj\Debug\DLL.ONE.Properties.Resources.resources
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\obj\Debug\DLL.ONE.csproj.GenerateResource.cache
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\obj\Debug\DLL.ONE.csproj.CoreCompileInputs.cache
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\obj\Debug\DLL.ONE.exe
+C:\Users\Jozeph\Desktop\Новая папка\DLL.ONE\obj\Debug\DLL.ONE.pdb
